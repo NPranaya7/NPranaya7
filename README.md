@@ -55,6 +55,13 @@ Currently, I'm working as a **Data Scientist** at **Sonavi Labs Inc.**, where I 
 - **Image Classification for Lung Diseases**  
    Built a real-time computer vision application for classifying lung diseases using edge computing and ML on **Jetson Nano**.
 
+- **Automated CI/CD Pipeline for Web Application Deployment**  
+   Developed an automated CI/CD pipeline using Jenkins, Docker, and Git to streamline deployments on Azure. Configured Azure services (Azure Virtual Machines, Azure Blob Storage, Azure App Service, Azure Load Balancer) and wrote Terraform scripts to automate infrastructure provisioning. Implemented automated testing and continuous deployment to different environments, reducing deployment times by 70% and increasing efficiency.
+
+- **Customer Insights Data Pipeline**
+  Developed a scalable data pipeline using Azure Data Factory, ADLS2, and Spark on Databricks to process and analyze customer data, generating actionable insights into acquisition and operational efficiency. Integrated with Power BI for dynamic dashboards, enhancing data-driven decision-making. Achieved a 60% reduction in processing times 
+
+
 
 
 ## 📈 Current Learning
