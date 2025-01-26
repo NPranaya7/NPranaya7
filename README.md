@@ -29,7 +29,17 @@ Currently, I'm working as a **Data Scientist** at **Sonavi Labs Inc.**, where I 
 
 ## 💼 Work Experience
 
-### Data Scientist, **Sonavi Labs Inc.** | July 2023 - Present
+### Data Scientist, **T-Mobile.** | Nov 2024 - Current					            		
+- Monitored and maintained server performance by analysing system logs and data trends to ensure optimal functionality with zero failures.
+- Developed detailed reports and dashboards using tools such as Power BI and Tableau to provide actionable insights and track system performance.
+- Ensured data integrity by querying various databases with SQL, verifying the accuracy of the received data, and identifying anomalies for further investigation.
+- Performed system updates and data management by uploading and updating models on the production server to ensure smooth operation across different regions.
+- Collaborated with cross-functional teams to identify business needs, address system challenges, and align solutions with organizational goals.
+- Resolved critical server issues by conducting root-cause analysis and working with technical teams to implement effective solutions.
+- Scheduled automated module processes across diverse markets to optimize workflow and resource utilization.
+
+
+### Data Scientist, **Sonavi Labs Inc.** | July 2023 - Dec 2024
 - Developed a custom **Lung Auscultation System** using **Azure ML Studio** with a CRNN for feature extraction, enhancing classification with **Random Forest**, **SVM**, and **Gradient Boosting**.
 - Implemented advanced preprocessing techniques for noise filtering and data augmentation, improving deep learning data reliability by **7%**.
 - Managed cloud resources for model training, reducing training time by **40%**.
@@ -49,6 +59,9 @@ Currently, I'm working as a **Data Scientist** at **Sonavi Labs Inc.**, where I 
 - **Lung Sound Classification**  
    Developed a classification model using **CNNs**, **RNN**, and **Mixed-Net** to differentiate between lung sounds like wheezes and crackles, achieving high accuracy through **Azure ML Studio**.
   
+- **Real-Time Stock Prediction and Suggestion System Using GPT 4.o LLM model:**
+   Designed and implemented an AI-driven system leveraging real-time stock data and market news to provide actionable investment insights. Integrated predictive models with LLMs and sentiment analysis to generate short-term and long-term stock probability ratings. Key features include real-time data ingestion from APIs (Alpha Vantage,         Google News), advanced preprocessing with technical indicators and NLP-based sentiment scoring, and a user-friendly dashboard for trend visualization and personalized stock recommendations. Demonstrated expertise in Python, machine learning, LLMs, and API integration to deliver dynamic financial insights.
+
 - **Financial Risk Analysis on Foreign Market**  
    Analyzed **CAPM** limitations and demonstrated the superiority of the **FAMA French 3 Factor Model (FF3F)** for forecasting stock market trends.
    
