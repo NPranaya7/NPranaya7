@@ -1,5 +1,5 @@
 <h1 align="center">
-Pranay Manikanta Narava!
+Pranay Manikanta!
 </h1>
 
 
