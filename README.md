@@ -3,9 +3,9 @@ Pranay Manikanta!
 </h1>
 
 
-🎓 **Data Science Graduate | AI Enthusiast | Data Scientist**  
-📍 Baltimore, MD  
-📧 npranayamanikanta@gmail.com | [LinkedIn](https://www.linkedin.com/in/pranayamanikanta07/)  
+🎓 **Data Science Graduate From University of Maryland Baltimore County**  
+📍 Current Location: Dallas, TX
+📧 pranaymanikanta@gmail.com | [LinkedIn](https://www.linkedin.com/in/pranayamanikanta07/)  
 📋 [Visitor Count](https://komarev.com/ghpvc/?username=NPranaya7&color=blue)
 
 ## 👨‍💻 About Me
@@ -98,7 +98,6 @@ Designed and deployed interactive Power BI dashboards connected to cloud and on-
 
 
 ## 📝 Articles
-- [MD New Venture Fellowship Winners 2023](https://technical.ly/startups/2023-maryland-new-venture-fellowship-program/)
 - [MD New Venture Fellowship Winners 2023 - LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7062304298025545728?utm_source=share&utm_medium=member_desktop)
 
 ## 🛠️ Tech Stack
@@ -117,7 +116,7 @@ Designed and deployed interactive Power BI dashboards connected to cloud and on-
 
 
 ## 📫 Let's Connect
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pranayamanikanta07/) or email me at npranayamanikanta@gmail.com. I'm always open to discussing AI, Data Science, and technology in general!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pranayamanikanta07/) I'm always open to discussing AI, Data Science, and technology in general!
 
 ---
 
